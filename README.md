@@ -13,7 +13,7 @@
 
 ## Meus projetos e experiências profissionais:
 
-- [Sistema de registro de vendas usando Python e kivy. Esse projeto está ativo em uma loja e recebe manutenções constantemente.][register]
+- [Sistema de registro de vendas usando Python e kivy. Esse projeto está ativo em uma loja e recebe manutenções e novas funcionalidades.][register]
 - [Sistema de análise de tempo de execução de códigos Python, conforme são utilizados métodos de otimização.][time_execution]
 
 
