@@ -6,7 +6,7 @@
 
 ## Contatos:
 
-[<img align="left" alt="dionn_vitor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="dion | WhatsaApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][WhatsApp]
 [<img align="left" alt="dion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
@@ -17,7 +17,7 @@
 - [Sistema de análise de tempo de execução de códigos Python, conforme são utilizados métodos de otimização.][time_execution]
 
 
-[instagram]: https://instagram.com/dionn_vitor/
+[WhatsApp]: https://api.whatsapp.com/send?phone=5561998822233
 [linkedin]: https://www.linkedin.com/in/dion-v%C3%ADtor-a519631aa/
 [register]: https://github.com/DionVitor/register-sell
 [time_execution]: https://github.com/DionVitor/time-execution
