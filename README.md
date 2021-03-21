@@ -7,8 +7,10 @@
 ## Contatos:
 
 [![Gmail Badge](https://img.shields.io/badge/-dionvictor11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dionvictor11@gmail.com)](mailto:dionvictor11@gmail.com)
-[<img align="left" alt="dion | WhatsaApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />][WhatsApp]
-[<img align="left" alt="dion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561998822233)](https://api.whatsapp.com/send?phone=5561998822233)
+[![Linkedin Badge](https://img.shields.io/badge/-Dion%20V%C3%ADtor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dion-v%C3%ADtor-a519631aa/)](www.linkedin.com/in/dion-v%C3%ADtor-a519631aa/)
+
+
 
 <br>
 
@@ -18,7 +20,5 @@
 - [Sistema de análise de tempo de execução de códigos Python, conforme são utilizados métodos de otimização.][time_execution]
 
 
-[WhatsApp]: https://api.whatsapp.com/send?phone=5561998822233
-[linkedin]: https://www.linkedin.com/in/dion-v%C3%ADtor-a519631aa/
 [register]: https://github.com/DionVitor/register-sell
 [time_execution]: https://github.com/DionVitor/time-execution
