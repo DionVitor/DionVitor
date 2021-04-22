@@ -1,6 +1,7 @@
-## Meu nome é Dion Vítor e sou estudante de engenharia de software!
+## Full-Stack Python Developer.
 
 - 🐍 Sou um amante de Python e de seus frameworks.
+- 📝 Apaixonado pelo desenvolvimento web.
 - 🤓 Adoro contribuir para projetos open source.
 - 🔥 Sempre estou em busca de novos conhecimentos.
 
