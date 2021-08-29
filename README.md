@@ -1,9 +1,10 @@
-## Full-Stack Python Developer.
+## Back-end Developer.
 
 - 🐍 Sou um amante de Python e de seus frameworks.
 - 📝 Apaixonado pelo desenvolvimento web.
 - 🤓 Adoro contribuir para projetos open source.
 - 🔥 Sempre estou em busca de novos conhecimentos.
+- 📚 Atualmente estudando GO, infraestrutura e novas arquiteturas.
 
 ## Contatos:
 
