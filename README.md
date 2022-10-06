@@ -4,7 +4,7 @@
 - 📝 Apaixonado pelo desenvolvimento web.
 - 🤓 Adoro contribuir para projetos open source.
 - 🔥 Sempre estou em busca de novos conhecimentos.
-- 📚 Atualmente estudando GO, infraestrutura e novas arquiteturas.
+- 📚 Atualmente estudando GO, Kubernetes e AWS.
 
 ## Contatos:
 
