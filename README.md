@@ -1,4 +1,4 @@
-## Back-end Developer - DevOps
+## Full-stack Developer - DevOps
 
 - 🐍 Sou um amante de Python e de seus frameworks.
 - 📝 Apaixonado pelo desenvolvimento web.
